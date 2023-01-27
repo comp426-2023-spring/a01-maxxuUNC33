@@ -1,0 +1,31 @@
+{
+  "name": "mx-426-webserver",
+  "version": "1.0.0",
+  "description": "Comp426 Web Server Attempt No.1",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2023-spring/a01-maxxuUNC33.git"
+  },
+  "keywords": [
+    "web",
+    "server",
+    "port",
+    "node",
+    "fs",
+    "args",
+    "http"
+  ],
+  "author": "maxxuUNC33",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2023-spring/a01-maxxuUNC33/issues"
+  },
+  "homepage": "https://github.com/comp426-2023-spring/a01-maxxuUNC33#readme",
+  "dependencies": {
+    "minimist": "^1.2.7"
+  }
+}
